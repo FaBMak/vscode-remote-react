@@ -1,4 +1,4 @@
-# Container para Desenvolvimento: Node.js
+# Container para Desenvolvimento: React.js
 
 Este é um projeto de demonstração, contruído para usar a extensão **[VS Code Remote - Containers](https://aka.ms/vscode-remote/containers)**
 
@@ -24,7 +24,7 @@ Siga esses passos para executar a demonstração em um container:
 
 Baseado no projeto [Node.js da Microsoft](https://github.com/Microsoft/vscode-remote-try-node).
 
-Alterado apenas a estrutura e inclusão do Nodemon.
+Alterado para React.
 
 ## Licença
 
